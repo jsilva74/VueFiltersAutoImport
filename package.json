@@ -1,0 +1,22 @@
+{
+  "name": "vuefiltersautoimport",
+  "version": "1.0.0",
+  "description": "Wrapper for auto import global filters for Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vue",
+    "filters",
+    "auto",
+    "import"
+  ],
+  "author": "José Silva Jr <jsilva@jjr.eti.br> (https://www.jjr.eti.br)",
+  "license": "MIT",
+  "repository": "git@github.com:jsjunior/VueFiltersAutoImport.git",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "vue": "^2.6.11"
+  }
+}
