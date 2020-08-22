@@ -17,6 +17,6 @@
   "repository": "git@github.com:jsjunior/VueFiltersAutoImport.git",
   "dependencies": {
     "lodash": "^4.17.20",
-    "vue": "^2.6.11"
+    "vue": "^2.6.12"
   }
 }
