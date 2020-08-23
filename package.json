@@ -1,6 +1,6 @@
 {
   "name": "vuefiltersautoimport",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Wrapper for auto import global filters for Vue",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,6 @@
   "license": "MIT",
   "repository": "git@github.com:jsjunior/VueFiltersAutoImport.git",
   "dependencies": {
-    "lodash": "^4.17.20",
-    "vue": "^2.6.12"
+    "lodash": "^4.17.20"
   }
 }
