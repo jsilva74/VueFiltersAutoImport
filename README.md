@@ -12,7 +12,7 @@ Optionally, as second argument, you can pass an array with methods to ignore:
 ```
 import VueFiltersAutoImport from 'vuefiltersautoimport'
 
-export default class MyFiltersClass extends VueFiltersAutoImport () {
+export default class MyFiltersClass extends VueFiltersAutoImport {
     constructor () {
         super(MyFiltersClass.prototype, ['auxiliaryMethodThatShouldBeIgnored'])
     }
